@@ -2,7 +2,7 @@ Start game by use of command line under python directory.
 
 Text-version: python rushhour.py game2.txt
 
-GUI-version:python rushhour_gui.py game2.txt
+GUI-version: python rushhour_gui.py game2.txt
 
 # Rules:
 Instructions: Move the target car to the finish line by moving any cars in its way. If the car's orientation is vertical it can only move up or down. If the car's orientation is horizontal it can only move left or right.
