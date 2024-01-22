@@ -1,5 +1,7 @@
 Start game by use of command line under python directory.
+
 Text-version: python rushhour.py game2.txt
+
 GUI-version:python rushhour_gui.py game2.txt
 
 # Rules:
